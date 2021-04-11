@@ -47,9 +47,9 @@ DB_CONFIG = {
 }
 
 MONGO_CONFIG = {
-    "host": "s2.anpaitm.com",
-    "port": 27017,
-    "username": "kdy222",
-    "password": "ba7c9bcec7a",
-    "db": "kdy222"
+    "host": "",
+    "port": ,
+    "username": "",
+    "password": "",
+    "db": ""
 }
